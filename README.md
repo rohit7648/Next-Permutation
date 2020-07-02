@@ -1,5 +1,7 @@
 # Next-Permutation
 
+LINK-> https://www.geeksforgeeks.org/find-the-next-lexicographically-greater-word-than-a-given-word/
+
 #copied Geeks For Geeks
 
 The same program can also be implemented without using STL. Below is the code snippet for the same. The idea is based on the following facts:
